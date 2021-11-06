@@ -1,0 +1,13 @@
+{
+  "proxy_url": [
+    "https://ip.ihuan.me/"
+  ],
+  "annotation_list": {
+    "annotation": "在json中不可以添加注释 ,所以我只可以这样另类的方式来添加一些注释 我不想不我的目录结构改的太复杂",
+    "proxy_url_annotation": "这个是可以使用的proxy队列，大部分都是在网上找到的. proxy_url_other是我没有添加到proxy_url中的备用的",
+    "proxy_url_other": [
+      "https://www.89ip.cn/index_16.html",
+      "https://www.89ip.cn/index_16.html"
+    ]
+  }
+}
